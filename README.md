@@ -1,4 +1,4 @@
-﻿# AI Soạn Giáo Án Tự Động
+﻿# AI Test Soạn Giáo Án Tự Động
 
 ## Mô tả
 Ứng dụng sử dụng ChatGPT để tự động soạn giáo án dựa trên thông tin đầu vào.
