@@ -1,0 +1,1 @@
+Soạn giáo án môn Toán lớp {grade} về {topic}, thời lượng {duration}. Mục tiêu học tập: {objectives}.
